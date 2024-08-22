@@ -3,5 +3,5 @@
 /data/sierraleone-bumbuna.csv
 /data/togo-dapaong_qc.csv
 
-#Ignore Venv
-/.venv/pyvenv.cfg
+# Ignore virtual environment
+.venv/
