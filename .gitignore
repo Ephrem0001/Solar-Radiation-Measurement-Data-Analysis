@@ -4,4 +4,4 @@
 /data/togo-dapaong_qc.csv
 
 #Ignore Venv
-/.venv/
+/.venv/pyvenv.cfg
