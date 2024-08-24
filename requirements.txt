@@ -3,3 +3,11 @@ numpy
 matplotlib
 seaborn
 scipy
+Python==3.12.5
+jupyter
+os
+vscode
+ipykernel41
+Githubactionsworkflow
+utils-1.0.2
+venv
