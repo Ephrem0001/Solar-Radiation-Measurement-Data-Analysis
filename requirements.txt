@@ -3,3 +3,7 @@ numpy
 matplotlib
 seaborn
 scipy
+streamlit
+fetch_data
+process_data
+visual_data
