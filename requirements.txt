@@ -3,7 +3,19 @@ numpy
 matplotlib
 seaborn
 scipy
+<<<<<<< HEAD
 streamlit
 fetch_data
 process_data
 visual_data
+=======
+Python==3.12.5
+jupyter
+os
+vscode
+ipykernel41
+Githubactionsworkflow
+utils-1.0.2
+venv
+
+>>>>>>> f49dc9b7f59b2561361e5c8367af46f6bfe673e1
